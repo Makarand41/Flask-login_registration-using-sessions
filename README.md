@@ -37,7 +37,9 @@ These instructions will help you set up and run the project on your local machin
 4. Set up the database:
 
     - Create a MySQL database named `flask` (or update `SQLALCHEMY_DATABASE_URI` in `app.py` accordingly).
-    - Update database configurations in `app.py` if necessary.
+    - Update database configurations in `app.py` if necessary. 
+    - Inside my flask database create a table login11 it has following attributes : id , firstname , lastname , email , password ,dob
+      
 
 5. Run the application:
 
