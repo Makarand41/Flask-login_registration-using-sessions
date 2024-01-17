@@ -1,4 +1,4 @@
-![image](https://github.com/Makarand41/Flask-login_registration-using-sessions/assets/90332486/713b6aef-ef0f-4555-9df7-04aee2aeb8bb)# Login-Register using flask session
+# Login-Register using flask session
 
 A simple web application for user authentication using Flask and SQLAlchemy.
 
